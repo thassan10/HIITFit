@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		25076BBC2CAA0CDA00409A15 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25076BBB2CAA0CD500409A15 /* TimerView.swift */; };
 		255C2EA62C98A1C400794B3F /* Exercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255C2EA52C98A1C400794B3F /* Exercise.swift */; };
 		255C2EA82C98A3D000794B3F /* HistoryStoreDevData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255C2EA72C98A3D000794B3F /* HistoryStoreDevData.swift */; };
 		255C2EAA2C98AD0F00794B3F /* SuccessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255C2EA92C98AD0F00794B3F /* SuccessView.swift */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		25076BBB2CAA0CD500409A15 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 		255C2EA52C98A1C400794B3F /* Exercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise.swift; sourceTree = "<group>"; };
 		255C2EA72C98A3D000794B3F /* HistoryStoreDevData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryStoreDevData.swift; sourceTree = "<group>"; };
 		255C2EA92C98AD0F00794B3F /* SuccessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccessView.swift; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				25C84B812C9895B60044A91F /* RatingView.swift */,
 				25C84B852C989B9D0044A91F /* HistoryView.swift */,
 				255C2EA92C98AD0F00794B3F /* SuccessView.swift */,
+				25076BBB2CAA0CD500409A15 /* TimerView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25076BBC2CAA0CDA00409A15 /* TimerView.swift in Sources */,
 				25C84B7B2C9602DC0044A91F /* ExerciseView.swift in Sources */,
 				25C84B792C9602CF0044A91F /* WelcomeView.swift in Sources */,
 				25C84B822C9895B60044A91F /* RatingView.swift in Sources */,
